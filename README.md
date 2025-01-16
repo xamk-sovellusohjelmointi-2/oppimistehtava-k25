@@ -8,7 +8,7 @@ Tämä on repository Sovellusohjelmointi 2 -opintojakson oppimistehtävän palau
 
 2. Avaa kloonattu kansio Visual Studio Codella
 
-3. Aloita tehtävän ratkaisu index.ts-tiedostoon. Avaa VS Coden sisäänrakennettu komentokehote (Terminal), asenna node-kehitysympäristö komennolla `npm install` ja käynnistä kehitysympäristö komennolla **npm start**. Aloitusrepositoryn package.json-tiedostossa on valmiiiksi määritellyt kehitysriippuvuudet: `typescript`, `ts-node`, `nodemon` ja `@types/node`. Näitä ei tarvitse erikseen asentaa. 
+3. Aloita tehtävän ratkaisu index.ts-tiedostoon. Avaa VS Coden sisäänrakennettu komentokehote (Terminal), asenna node-kehitysympäristö komennolla `npm install` ja käynnistä kehitysympäristö komennolla `npm start`. Aloitusrepositoryn package.json-tiedostossa on valmiiiksi määritellyt kehitysriippuvuudet: `typescript`, `ts-node`, `nodemon` ja `@types/node`. Näitä ei tarvitse erikseen asentaa. 
 
 4. Toteuta sovellustasi ja ylläpidä repositoryjä Git-työkulun mukaisesti joko VS Coden Git-työkalulla tai erillisinä komentoina:
 
